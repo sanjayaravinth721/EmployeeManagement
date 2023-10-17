@@ -17,7 +17,7 @@ Before running the application, make sure you have the following prerequisites i
 
 1. Clone this repository to your local machine.
    ```bash
-   git clone https://github.com/your-username/employee-management-system.git
+   git clone https://github.com/sanjayaravinth721/employee-management-system.git
 
 2. Navigate to the project's root directory.
 3. Start the Docker container for PostgreSQL. This will create a container for the application.
