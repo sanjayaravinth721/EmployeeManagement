@@ -25,13 +25,8 @@ Before running the application, make sure you have the following prerequisites i
    docker-compose up -d
    The PostgreSQL container is named "employee_postgres". The database created is named "employee_management_system"
 
-4. Run the Spring Boot backend server 
-  ```bash
-  http://localhost:8080
-
-5. Run the Angular frontend application
-  ```bash
-  http://localhost:4200
+4. Run the Spring Boot backend server -> "http://localhost:8080"
+5. Run the Angular frontend application -> "http://localhost:4200"
 
 ## Usage
 
