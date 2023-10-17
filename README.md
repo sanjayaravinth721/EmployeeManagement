@@ -38,4 +38,4 @@ The provided Docker Compose configuration simplifies the setup process by runnin
 
 ## Database Configuration
 
-The application uses a PostgreSQL database named employee_management_system. If you want to change the database settings, you can modify the docker-compose.yml file and the Spring Boot application's application.properties file.
+The application uses a PostgreSQL database named employee_management_system. If you want to change the database settings, you can modify the docker-compose.yml file and the Spring Boot application's application.yml file.
