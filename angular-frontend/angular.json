@@ -1,10 +1,7 @@
 {
   "architect": {
     "serve": {
-      "builder": "@angular-devkit/build-angular:dev-server",
-      "options": {
-        "proxyConfig": "proxy.conf.json"
-      }      
+      "builder": "@angular-devkit/build-angular:dev-server"     
     }
   },
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
