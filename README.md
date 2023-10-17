@@ -27,11 +27,11 @@ Before running the application, make sure you have the following prerequisites i
 
 4.Run the Spring Boot backend server 
   ```bash
-  http://localhost:8080.
+  http://localhost:8080
 
 5.Run the Angular frontend application
   ```bash
-  http://localhost:4200.
+  http://localhost:4200
 
 ## Usage
 
