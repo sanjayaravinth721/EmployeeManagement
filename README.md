@@ -26,14 +26,14 @@ Before running the application, make sure you have the following prerequisites i
 4.Run the Spring Boot backend server `http://localhost:8080`.
 5.Run the Angular frontend application `http://localhost:4200`.
 
-##Usage
+## Usage
 
 Once the application is running, you can perform CRUD operations to manage employee records.
 
-##Docker Compose
+## Docker Compose
 
 The provided Docker Compose configuration simplifies the setup process by running a PostgreSQL container with the required database.
 
-##Database Configuration
+## Database Configuration
 
 The application uses a PostgreSQL database named employee_management_system. If you want to change the database settings, you can modify the docker-compose.yml file and the Spring Boot application's application.properties file.
