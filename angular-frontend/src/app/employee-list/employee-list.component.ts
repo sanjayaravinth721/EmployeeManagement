@@ -21,8 +21,7 @@ export class EmployeeListComponent {
       (data)=>{
         console.log(data);
         this.employees = data;
-      },
-      
+      }
     )
   }
 }
